@@ -1,2 +1,3 @@
 # WomenInPrison_EDA
 My project is about gender disparities in Portugal with a focus in prisons. I was trying to understand why there so many fewer women in prison compared to men.
+I got this idea, because I started looking at some numbers and they quite intrigued me. For example, in 2022, almost 60% of university graduates were women, but they earned 6% less than men in the same roles, they accounted for 55% of the unemployed and 73% of domestic violence victims. These numbers already highlight a clear gender imbalance, but what’s interesting is that despite these inequalities, women represent only 7.1% of the prison population and this has remained consistently low over the years.
